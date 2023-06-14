@@ -1,0 +1,68 @@
+/* label demo styles */
+.jcf-label-active {
+	font-weight: bold;
+}
+
+/* select demo styles */
+.jcf-select-color .jcf-select-text .jcf-option-color {font-weight: bold;}
+.jcf-select-text .jcf-option-red, .jcf-list .jcf-option-red {color: #d00;}
+.jcf-select-text .jcf-option-green, .jcf-list .jcf-option-green {color: #0d0;}
+.jcf-select-text .jcf-option-blue, .jcf-list .jcf-option-blue {color: #00d;}
+.jcf-select-drop .jcf-option-hideme {display: none;}
+
+.jcf-select.jcf-select-present {
+	line-height: 48px;
+	height: 48px;
+	background: #fff;
+}
+.jcf-select.jcf-select-present .jcf-select-text img {
+	vertical-align: top;
+	width: 32px;
+	height: auto;
+	margin: 7px 5px 0 0;
+}
+.jcf-select-present .jcf-select-text {
+	line-height: 48px;
+}
+.jcf-select-present .jcf-list {
+	font-style: italic;
+	line-height: 48px;
+}
+.jcf-select-present .jcf-list img {
+	vertical-align: middle;
+	margin: 0 5px 0 0;
+}
+
+/* scroll area styles */
+.jcf-textarea {
+	margin-top: 15px;
+}
+.demo-scrollbars .test {
+	background: #f5f55;
+	overflow: auto;
+	float: left;
+	width: 50%;
+	height: 300px;
+	padding: 0;
+}
+
+
+@media only screen and (max-width:1000px) {
+	.demo-scrollbars .test {
+		height: 300px;
+	}
+	.demo-scrollbars .test img {
+		max-width: none;
+	}
+}
+@media only screen and (max-width:600px) {
+	.demo-scrollbars .test {
+		font-size: 11px;
+		height: 300px;
+	}
+	.demo-scrollbars .test img {
+		margin: 0 auto;
+		width: 75px;
+		height: auto;
+	}
+}

@@ -1,0 +1,11 @@
+<svg width="59" height="59" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="guides">
+<rect id="Rectangle" x="5.32162" y="5.55237" width="48.3333" height="48.3333" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path id="Path 2" d="M27.0716 17.6357H41.5716" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path id="Path 2_2" d="M27.0716 29.719H41.5716" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path id="Path 2_3" d="M27.0716 41.8023H41.5716" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M17.4049 20.0523C18.7396 20.0523 19.8216 18.9703 19.8216 17.6357C19.8216 16.301 18.7396 15.219 17.4049 15.219C16.0703 15.219 14.9883 16.301 14.9883 17.6357C14.9883 18.9703 16.0703 20.0523 17.4049 20.0523Z" fill="black"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M17.4049 32.1357C18.7396 32.1357 19.8216 31.0537 19.8216 29.719C19.8216 28.3843 18.7396 27.3024 17.4049 27.3024C16.0703 27.3024 14.9883 28.3843 14.9883 29.719C14.9883 31.0537 16.0703 32.1357 17.4049 32.1357Z" fill="black"/>
+<path id="Oval_3" fill-rule="evenodd" clip-rule="evenodd" d="M17.4049 44.219C18.7396 44.219 19.8216 43.137 19.8216 41.8023C19.8216 40.4676 18.7396 39.3856 17.4049 39.3856C16.0703 39.3856 14.9883 40.4676 14.9883 41.8023C14.9883 43.137 16.0703 44.219 17.4049 44.219Z" fill="black"/>
+</g>
+</svg>

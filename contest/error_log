@@ -1,0 +1,2 @@
+[02-Jun-2023 07:54:02 UTC] PHP Fatal error:  Cannot redeclare App\Http\Livewire\LiveSingleEntryComponent::checkAgent() in /home/sandbox/public_html/contest/app/Http/Livewire/LiveSingleEntryComponent.php on line 72
+[02-Jun-2023 07:54:09 UTC] PHP Fatal error:  Cannot redeclare App\Http\Livewire\LiveSingleEntryComponent::checkAgent() in /home/sandbox/public_html/contest/app/Http/Livewire/LiveSingleEntryComponent.php on line 72
